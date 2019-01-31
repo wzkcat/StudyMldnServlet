@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloIDEAGIT/HelloIDEAGIT.iml" filepath="$PROJECT_DIR$/HelloIDEAGIT/HelloIDEAGIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDN/IDN.iml" filepath="$PROJECT_DIR$/IDN/IDN.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyMldnServlet.iml" filepath="$PROJECT_DIR$/StudyMldnServlet.iml" />
     </modules>
   </component>
