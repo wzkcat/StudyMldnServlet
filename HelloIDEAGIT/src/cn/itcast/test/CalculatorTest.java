@@ -41,6 +41,9 @@ public class CalculatorTest {
         System.out.println("testSub()...");
         Assert.assertEquals(1,result);
     }
-
+@Test
+    public void sout(){
+    System.out.println("hh");
+}
 
 }
